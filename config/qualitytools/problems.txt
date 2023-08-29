@@ -1,0 +1,1 @@
+reforging materials.json: com.google.gson.stream.MalformedJsonException: Unterminated array at line 8 column 4 path $[1]

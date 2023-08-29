@@ -1,0 +1,9 @@
+[
+  {
+    "tool": "any",
+    "material": {
+        "item": "minecraft:nether_star",
+		"item": "mca:rose_gold_ingot"
+    }
+  }
+]

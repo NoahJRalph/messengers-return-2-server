@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SevArktic",
+      "uniqueId": "1b3705bc-1588-4180-b808-a60f6dfefdb2"
+    },
+    "time": 1691718592079,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XtrMmCjIdf"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SevArktic",
+      "uniqueId": "1b3705bc-1588-4180-b808-a60f6dfefdb2"
+    },
+    "time": 1691706192900,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Si5mIQ4Pnu"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SevArktic",
+      "uniqueId": "1b3705bc-1588-4180-b808-a60f6dfefdb2"
+    },
+    "time": 1691705876795,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4LxGnE8H2W"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SevArktic",
+      "uniqueId": "1b3705bc-1588-4180-b808-a60f6dfefdb2"
+    },
+    "time": 1691703410192,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/u0vt5qlF6w"
+    }
+  }
+]
