@@ -1,0 +1,14 @@
+# 5:45am Server Shutdown from previous day's 6pm restart.sh
+# 6am restart.sh runs start.sh with shutoff timer and in-game warnings for 5:45pm.
+0 6 * * * sh /home/ArkticHost-1/Desktop/Horizon/restart.sh
+# failsafe.sh checks every 5 minutes if screen is booted and server is booted. Boots both if false.
+5 6 * * * sh /home/ArkticHost-1/Desktop/Horizon/failsafe.sh
+# Server tower shuts down 5 minutes after server shutdown and takes a 10 minute break for hardware.
+50 17 * * * /sbin/shutdown -r
+# 5:45pm Server Shutdown from 6am restart.sh
+# 6pm restart.sh runs start.sh with shutoff timer and in-game warnings for next day 5:45am.
+0 18 * * * sh /home/ArkticHost-1/Desktop/Horizon/restart.sh
+# failsafe.sh checks every 5 minutes if screen is booted and server is booted. Boots both if false.
+5 18 * * * sh /home/ArkticHost-1/Desktop/Horizon/failsafe.sh
+# Server tower shuts down 5 minutes after server shutdown and takes a 10 minute break for hardware.
+50 5 * * * /sbin/shutdown -r

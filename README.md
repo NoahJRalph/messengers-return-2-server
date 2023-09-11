@@ -107,9 +107,11 @@ This project is protected under the GNU GPLv3 License; In short meaning any impr
 
 Please see the "Credits and such:" section of the Modpack's description [here](https://legacy.curseforge.com/minecraft/modpacks/messengers-return-2) for additional credits and contributions.
 
-All mods are made by their respected authors and contributors.
+Minecraft is made by it's respected authors and contributors.
 
 Minecraft Forge is made by it's respected authors and contributors.
+
+All mods are made by their respected authors and contributors.
 
 ## Questions?
 
